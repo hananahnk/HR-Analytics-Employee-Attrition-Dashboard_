@@ -39,9 +39,10 @@ Stock Options, Job Satisfaction, and Monthly Income were key attrition drivers.
 Sales and R&D departments showed the highest attrition rates.
 Younger employees and those with fewer years in the company tend to leave more often.
 
-📸 Dashboard Preview
+📸 Dashboard Preview dashboard_HR.png
 
 🧾 Dataset
 
 IBM HR Analytics Employee Attrition & Performance – Kaggle
+
 
